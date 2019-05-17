@@ -1,2 +1,2 @@
 # projects
-Data analysis with logistic regression
+Data analysis projects
